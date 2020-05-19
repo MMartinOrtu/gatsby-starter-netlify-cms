@@ -71,8 +71,19 @@ $black: #2b2523
 .margin-top-0
   margin-top: 0 !important
 
+.navbar-item img
+  max-height: unset !important
 .navbar-item .icon
   color: $primary
+
+@media screen and (min-width: 1024px)
+  .navbar
+    min-height: 5.25rem !important
+
+@media screen and (min-width: 1024px)
+  .navbar > .container .navbar-brand, .container > .navbar .navbar-brand
+    margin-left: -2.75rem !important
+
 // Override for use of svg's from https://simpleicons.org/
 .icon svg
   width: 1.5rem
