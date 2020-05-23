@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Psicología perinatal para todas las maternidades
-image: /img/img_9267.jpg
+image: /img/img_9262.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
