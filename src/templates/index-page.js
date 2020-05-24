@@ -22,20 +22,19 @@ export const IndexPageTemplate = ({
         backgroundImage: `url(${
           !!image.childImageSharp ? image.childImageSharp.fluid.src : image
         })`,
-        backgroundPosition: `top left`,
         backgroundAttachment: `fixed`,
+        animation: '1s ease-out 0s 1 slideInFromLeft',
+        borderRadius: '15px',
         filter: 'grayscale(1)',
-        height: '700px'
+        height: '460px',
+        transform: 'translateX(-10%)',
       }}
     >
-      <div
+{      <div
         style={{
           display: 'flex',
-          height: '150px',
-          lineHeight: '1',
-          justifyContent: 'space-around',
-          alignItems: 'left',
-          flexDirection: 'column',
+          alignItems: 'flex-end',
+          width: '100%',
         }}
       >
         <h1
@@ -43,13 +42,16 @@ export const IndexPageTemplate = ({
           style={{
             backgroundColor: '#ffffff52',
             color: 'white',
-            lineHeight: '1',
+            lineHeight: '1.5',
             padding: '0.25em',
+            textAlign: 'center',
+            paddingLeft: '10%',
+            width: '100%'
           }}
         >
           {title}
         </h1>
-      </div>
+      </div>}
     </div>
     <section className="section section--gradient">
       <div className="container">
@@ -59,7 +61,8 @@ export const IndexPageTemplate = ({
               <div className="content">
                 <div className="content">
                   <div className="tile">
-                    <h1 className="title">{mainpitch.title}</h1>
+                    <h1 className="title"
+                    >{mainpitch.title}</h1>
                   </div>
                   <div className="tile">
                     <h3 className="subtitle">{mainpitch.description}</h3>
