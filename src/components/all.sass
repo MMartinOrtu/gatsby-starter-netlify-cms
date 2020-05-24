@@ -1,7 +1,29 @@
 @import "~bulma/sass/utilities/initial-variables"
+@font-face 
+  font-family: "Montserrat-Light"
+  src: url("../fonts/Montserrat-Light.eot")
+  src: url("../fonts/Montserrat-Light.eot?#iefix") format("embedded-opentype")
+  src: url("../fonts/Montserrat-Light.otf") format("opentype")
+  src: url("../fonts/Montserrat-Light.svg") format("svg")
+  src: url("../fonts/Montserrat-Light.ttf") format("truetype")
+  src: url("../fonts/Montserrat-Light.woff") format("woff")
+  src: url("../fonts/Montserrat-Light.woff2") format("woff2")
+  font-weight: normal
+  font-style: normal
+
+@font-face
+  font-family: "Montserrat-Bold"
+  src: url("../fonts/Montserrat-Bold.eot")
+  src: url("../fonts/Montserrat-Bold.eot?#iefix") format("embedded-opentype")
+  src: url("../fonts/Montserrat-Bold.otf") format("opentype")
+  src: url("../fonts/Montserrat-Bold.svg") format("svg")
+  src: url("../fonts/Montserrat-Bold.ttf") format("truetype")
+  src: url("../fonts/Montserrat-Bold.woff") format("woff")
+  src: url("../fonts/Montserrat-Bold.woff2") format("woff2")
+  font-weight: normal
+  font-style: normal
 
 // Config vars
-// Kaldi logo brand color: #FD461E
 $kaldi-red-invert: #fff
 
 
@@ -9,6 +31,15 @@ $primary: #82B7B9
 $primary-invert: $kaldi-red-invert
 $body-color: #333
 $black: #2b2523
+
+*
+  font-family: Montserrat-Light
+
+h1
+  font-family: Montserrat-Bold
+
+.change-width
+  width: 550px
 
 .full-width-image
   align-items: flex-end
@@ -70,18 +101,22 @@ $black: #2b2523
     border-radius: .25rem
     text-decoration: none
     font-weight: 700
-    color: #CC3700
+    color: $primary
     text-align: center
-    -webkit-box-shadow: inset 0 0 0 2px #CC3700
-    box-shadow: inset 0 0 0 2px #f40
+    -webkit-box-shadow: inset 0 0 0 2px $primary
+    box-shadow: inset 0 0 0 2px $primary
     -webkit-transition: all .15s ease
     transition: all .15s ease
 
 .margin-top-0
   margin-top: 0 !important
 
+a.navbar-item:hover
+  color: $primary !important
+
 .navbar-item img
   max-height: unset !important
+
 .navbar-item .icon
   color: $primary
 
@@ -89,9 +124,16 @@ $black: #2b2523
   .navbar
     min-height: 5.25rem !important
 
+@media screen and (max-width: 1216px)
+  .change-width
+    width: 500px
+
+@media screen and (max-width: 770px)
+  .change-width
+    width: 300px
+
 @media screen and (min-width: 500px) and (max-width: 1007px)
   .tablet-padded
-
 
 @media screen and (min-width: 1024px)
   .navbar > .container .navbar-brand, .container > .navbar .navbar-brand
@@ -114,9 +156,9 @@ footer.footer
 
 //Menu overrides
 $menu-item-color: $white-ter
-$menu-item-hover-color: $black !important
+$menu-item-hover-color: $primary !important
 $menu-item-hover-background-color: $black
-$menu-item-active-color: $kaldi-red-invert
+$menu-item-active-color: $primary
 $menu-item-active-background-color:	$kaldi-red-invert
 $menu-list-border-left: 1px solid $kaldi-red-invert
 $menu-label-color: $white-ter

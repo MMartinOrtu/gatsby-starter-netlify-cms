@@ -25,7 +25,7 @@ export const IndexPageTemplate = ({
         backgroundAttachment: `fixed`,
         animation: '1s ease-out 0s 1 slideInFromLeft',
         borderRadius: '15px',
-        filter: 'grayscale(1)',
+        filter: 'grayscale(0.3)',
         height: '460px',
         transform: 'translateX(-10%)',
       }}
@@ -33,20 +33,20 @@ export const IndexPageTemplate = ({
 {      <div
         style={{
           display: 'flex',
-          alignItems: 'flex-end',
-          width: '100%',
+          justifyContent: 'flex-end',
+          width: '100%'
         }}
       >
         <h1
-          className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
+          className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen change-width"
           style={{
             backgroundColor: '#ffffff52',
             color: 'white',
             lineHeight: '1.5',
-            padding: '0.25em',
-            textAlign: 'center',
-            paddingLeft: '10%',
-            width: '100%'
+            padding: '8px 24px',
+            textAlign: 'right',
+            borderRadius: '10px',
+            marginRight: '16px',
           }}
         >
           {title}
@@ -59,18 +59,10 @@ export const IndexPageTemplate = ({
           <div className="columns">
             <div className="column is-10 is-offset-1">
               <div className="content">
-                <div className="content">
-                  <div className="tile">
-                    <h1 className="title"
-                    >{mainpitch.title}</h1>
-                  </div>
-                  <div className="tile">
-                    <h3 className="subtitle">{mainpitch.description}</h3>
-                  </div>
-                </div>
                 <div className="columns">
                   <div className="column is-12">
-                    <h3 className="has-text-weight-semibold is-size-2">
+                    <h3
+                    className="has-text-weight-semibold is-size-2">
                       {heading}
                     </h3>
                     <p>{description}</p>
@@ -126,7 +118,6 @@ const IndexPage = ({ data }) => {
         title={frontmatter.title}
         heading={frontmatter.heading}
         subheading={frontmatter.subheading}
-        mainpitch={frontmatter.mainpitch}
         description={frontmatter.description}
         intro={frontmatter.intro}
       />
