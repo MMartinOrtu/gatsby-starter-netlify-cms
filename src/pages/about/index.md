@@ -1,19 +1,20 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
-title: About our values
+title: ¿Quiénes somos?
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+*Maternés es el lenguaje propio de las mujeres madres. Contiene todos los elementos para que bebé y mamá se comuniquen desde el primer momento en el que un bebé se gesta en el pensamiento de una mujer.* 
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+*“Maternés. Psicología Perinatal  y familiar” surge de la unión de dos psicólogas perinatales y madres, Eirene y Famara y de la necesidad de crear espacios donde la ma-paternidad pueda ser oída y atendida, independientemente de cuál sea su forma.* 
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+*Hay tantas ma-paternidades como mujeres y hombres en este mundo y todas merecen su espacio. Nuestro objetivo es acompañar, reconocer, atender, nombrar y apoyar las distintas expresiones maternales y paternales. Crear círculos de apoyo y fomentar el autoconocimiento y cuidado de la ma-paternidad. También prevenir dificultades y detectarlas de forma temprana para así poder abordaras y dar solución.*
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+*El continuo de la ma-paternidad es infinito y allí donde estéis estaremos nosotras acompañando.* 
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+*Desde que os pensáis madres. Desde que os pensáis padres.*
+
+*Aquí podéis consultar nuestra trayectoria profesional y curriculum:*
+
+*FAMARA PEDROSA CABA (Nº Col. AO 11426): [https://www.linkedin.com/in/famara-pedrosa-972449b](https://www.linkedin.com/in/famara-pedrosa-972449b7/)*
+
+*EIRENE GARCÍA CARO (Nº Col. AO 09582):* <https://www.linkedin.com/in/eirene-garc%C3%ADa-caro-b3636b92/>
