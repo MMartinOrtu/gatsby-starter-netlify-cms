@@ -23,11 +23,7 @@ export const IndexPageTemplate = ({
           !!image.childImageSharp ? image.childImageSharp.fluid.src : image
         })`,
         backgroundAttachment: `fixed`,
-        animation: '1s ease-out 0s 1 slideInFromLeft',
-        borderRadius: '15px',
         filter: 'grayscale(0.3)',
-        height: '460px',
-        transform: 'translateX(-8%)',
       }}
     >
 {      <div
