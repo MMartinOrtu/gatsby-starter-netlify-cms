@@ -34,30 +34,35 @@ export const ProductPageTemplate = ({
               </div>
             </div>
           </div>
-          <div 
-            style={{ justifyContent: 'center'}}
-            className="columns">
-            <div className="column is-12 product-container">
+          {
+            areas.map((area, index) => (
               <div
-                className="product-header"
-                style={{
-/*                   backgroundImage: `url(${
-                    !!pricing.image.childImageSharp ? pricing.image.childImageSharp.fluid.src : pricing.image
-                  })`, */
-                  filter: 'grayscale(0.3)',
-                }}
-              >
-                <h2 
-                  style={{ color: 'white', margin: '0', fontSize: 'bold'}}
-                  className="is-size-1">
-                  {areas.area}
-                </h2>
+                key={index}
+                style={{ justifyContent: 'center'}}
+                className="columns">
+                <div className="column is-12 product-container">
+                  <div
+                    className="product-header"
+                    style={{
+    /*                   backgroundImage: `url(${
+                        !!pricing.image.childImageSharp ? pricing.image.childImageSharp.fluid.src : pricing.image
+                      })`, */
+                      filter: 'grayscale(0.3)',
+                    }}
+                  >
+                    <h2 
+                      style={{ color: 'white', margin: '0', fontSize: 'bold'}}
+                      className="is-size-1">
+                      {area.area}
+                    </h2>
+                  </div>
+                  <p className="is-size-5 product-text">{area.description}</p>
+                  <Pricing data={area.plans} />
+                </div>
               </div>
-              <p className="is-size-5 product-text">{areas.description}</p>
-              <Pricing data={areas[0].plans} />
-            </div>
+            ))
+          }
           </div>
-        </div>
       </div>
     </section>
   </div>

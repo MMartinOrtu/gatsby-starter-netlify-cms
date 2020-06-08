@@ -1,7 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
 
-import logo from '../img/logo.jpg'
 import facebook from '../img/social/facebook.svg'
 import instagram from '../img/social/instagram.svg'
 import twitter from '../img/social/twitter.svg'
@@ -14,7 +13,10 @@ const Footer = class extends React.Component {
         style={{ background: '#82B7B9'}}
         className="content has-text-centered  has-text-white-ter">
           <div className="container has-text-white-ter">
-            <div className="columns">
+            <div 
+              className="columns"
+              style={{ width: '100%'}}
+            >
               <div className="column is-4">
                 <section className="menu">
                   <ul className="menu-list">

@@ -10,8 +10,6 @@ export const IndexPageTemplate = ({
   image,
   title,
   heading,
-  subheading,
-  mainpitch,
   description,
   intro,
 }) => (
@@ -24,6 +22,7 @@ export const IndexPageTemplate = ({
         })`,
         backgroundAttachment: `fixed`,
         filter: 'grayscale(0.3)',
+        width: '100%'
       }}
     >
 {      <div
@@ -57,7 +56,6 @@ export const IndexPageTemplate = ({
               <div className="content">
                 <div className="columns">
                   <div
-                    style={{ marginBottom: '32px'}}
                     className="column is-12"
                   >
                     <h3
@@ -65,7 +63,7 @@ export const IndexPageTemplate = ({
                     className="has-text-weight-semibold is-size-1">
                       {heading}
                     </h3>
-                    <p style={{ fontSize: '18px', lineHeight: '24px'}}>{description}</p>
+                    <p style={{ fontSize: '18px', lineHeight: '32px', letterSpacing: '1.5px'}}>{description}</p>
                   </div>
                 </div>
                 <Features gridItems={intro.blurbs} />
@@ -81,7 +79,9 @@ export const IndexPageTemplate = ({
                     Últimos posts
                   </h3>
                   <BlogRoll />
-                  <div className="column is-12 has-text-centered">
+                  <div 
+                  style={{ marginTop: '24px'}}
+                  className="column is-12 has-text-centered">
                     <Link className="btn" to="/blog">
                       Leer más
                     </Link>

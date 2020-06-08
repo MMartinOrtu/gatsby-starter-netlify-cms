@@ -1,5 +1,5 @@
 ---
-heading: Productos
+heading: Servicios
 path: /products
 templateKey: product-page
 image: /img/francesca-petringa-dojcswx1rre-unsplash.jpg
