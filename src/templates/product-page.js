@@ -54,7 +54,7 @@ export const ProductPageTemplate = ({
                 </h2>
               </div>
               <p className="is-size-5 product-text">{areas.description}</p>
-              <Pricing data={areas.plans} />
+              <Pricing data={areas[0].plans} />
             </div>
           </div>
         </div>
