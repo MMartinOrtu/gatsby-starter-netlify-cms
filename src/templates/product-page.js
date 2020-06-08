@@ -38,7 +38,7 @@ export const ProductPageTemplate = ({
             areas.map((area, index) => (
               <div
                 key={index}
-                style={{ justifyContent: 'center'}}
+                style={{ justifyContent: 'center', marginTop: '48px'}}
                 className="columns">
                 <div className="column is-12 product-container">
                   <div

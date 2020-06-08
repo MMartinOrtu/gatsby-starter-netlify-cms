@@ -2,12 +2,12 @@ import React from 'react'
 import PropTypes from 'prop-types'
 
 const Pricing = ({ data }) => (
-  <div className="columns">
+  <div  className="columns">
     {data.map((price) => (
       <div
         key={price.plan}
         style={{ 
-         border: '1px solid rgb(234, 236, 238)',
+         border: '1px solid #82B7B9',
          display: 'flex',
          flexDirection: 'column',
          justifyContent: 'space-between'
@@ -15,11 +15,13 @@ const Pricing = ({ data }) => (
         className="column"
       >
         <section className="section">
-          <h4 className="has-text-centered has-text-weight-semibold">
+          <h4 
+          style={{ color: '#82B7B9', fontSize: '36px'}}
+          className="has-text-centered has-text-weight-semibold">
             {price.plan}
           </h4>
           <h2 className="is-size-1 has-text-weight-bold has-text-primary has-text-centered">
-            ${price.price}
+            {price.price}
           </h2>
           <p className="has-text-weight-semibold">{price.description}</p>
           <ul>
