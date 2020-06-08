@@ -2,20 +2,12 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
-import Features from '../components/Features'
-import Testimonials from '../components/Testimonials'
 import Pricing from '../components/Pricing'
-import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 
 export const ProductPageTemplate = ({
   image,
-  title,
   heading,
   description,
-  intro,
-  main,
-  testimonials,
-  fullImage,
   pricing,
 }) => (
   <div className="content">
@@ -37,27 +29,31 @@ export const ProductPageTemplate = ({
                 <h3
                   style={{ textAlign: 'center', color: '#82B7B9'}} className="has-text-weight-semibold is-size-2"
                 >{heading}</h3>
-                <p>{description}</p>
+                <p className="product-text">{description}</p>
 
               </div>
             </div>
           </div>
-          <div className="columns">
-            <div className="column is-10 is-offset-1">
+          <div 
+            style={{ justifyContent: 'center'}}
+            className="columns">
+            <div className="column is-12 product-container">
               <div
-                className="full-width-image-container"
+                className="product-header"
                 style={{
-                  backgroundImage: `url(${
-                    fullImage.childImageSharp
-                      ? fullImage.childImageSharp.fluid.src
-                      : fullImage
-                  })`,
+/*                   backgroundImage: `url(${
+                    !!pricing.image.childImageSharp ? pricing.image.childImageSharp.fluid.src : pricing.image
+                  })`, */
+                  filter: 'grayscale(0.3)',
                 }}
-              />
-              <h2 className="has-text-weight-semibold is-size-2">
-                {pricing.heading}
-              </h2>
-              <p className="is-size-5">{pricing.description}</p>
+              >
+                <h2 
+                  style={{ color: 'white', margin: '0', fontSize: 'bold'}}
+                  className="is-size-1">
+                  {pricing.heading}
+                </h2>
+              </div>
+              <p className="is-size-5 product-text">{pricing.description}</p>
               <Pricing data={pricing.plans} />
             </div>
           </div>
@@ -98,13 +94,8 @@ const ProductPage = ({ data }) => {
     <Layout>
       <ProductPageTemplate
         image={frontmatter.image}
-        title={frontmatter.title}
         heading={frontmatter.heading}
         description={frontmatter.description}
-        intro={frontmatter.intro}
-        main={frontmatter.main}
-        testimonials={frontmatter.testimonials}
-        fullImage={frontmatter.full_image}
         pricing={frontmatter.pricing}
       />
     </Layout>
@@ -125,7 +116,6 @@ export const productPageQuery = graphql`
   query ProductPage($id: String!) {
     markdownRemark(id: { eq: $id }) {
       frontmatter {
-        title
         image {
           childImageSharp {
             fluid(maxWidth: 2048, quality: 100) {
@@ -135,68 +125,16 @@ export const productPageQuery = graphql`
         }
         heading
         description
-        intro {
-          blurbs {
-            image {
-              childImageSharp {
-                fluid(maxWidth: 240, quality: 64) {
-                  ...GatsbyImageSharpFluid
-                }
-              }
-            }
-            text
-          }
-          heading
-          description
-        }
-        main {
-          heading
-          description
-          image1 {
-            alt
-            image {
-              childImageSharp {
-                fluid(maxWidth: 526, quality: 92) {
-                  ...GatsbyImageSharpFluid
-                }
-              }
-            }
-          }
-          image2 {
-            alt
-            image {
-              childImageSharp {
-                fluid(maxWidth: 526, quality: 92) {
-                  ...GatsbyImageSharpFluid
-                }
-              }
-            }
-          }
-          image3 {
-            alt
-            image {
-              childImageSharp {
-                fluid(maxWidth: 1075, quality: 72) {
-                  ...GatsbyImageSharpFluid
-                }
-              }
-            }
-          }
-        }
-        testimonials {
-          author
-          quote
-        }
-        full_image {
-          childImageSharp {
-            fluid(maxWidth: 2048, quality: 100) {
-              ...GatsbyImageSharpFluid
-            }
-          }
-        }
         pricing {
           heading
           description
+          image {
+            childImageSharp {
+              fluid(maxWidth: 2048, quality: 100) {
+                ...GatsbyImageSharpFluid
+              }
+            }
+          }
           plans {
             description
             items
