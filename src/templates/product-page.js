@@ -27,7 +27,7 @@ export const ProductPageTemplate = ({
             <div className="column is-12">
               <div>
                 <h3
-                  style={{ textAlign: 'center', color: '#82B7B9'}} className="has-text-weight-semibold is-size-2"
+                  style={{ textAlign: 'center', color: '#82B7B9', fontSize: '78px', marginBottom: '0px'}} className="has-text-weight-semibold"
                 >{heading}</h3>
                 <p className="product-text">{description}</p>
 
