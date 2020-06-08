@@ -126,7 +126,7 @@ export const productPageQuery = graphql`
         heading
         description
         areas {
-          areas
+          area
           description
           image {
             childImageSharp {
