@@ -2,7 +2,7 @@
 heading: Servicios
 path: /products
 templateKey: product-page
-image: /img/francesca-petringa-dojcswx1rre-unsplash.jpg
+image: /img/img_9267.jpg
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
   production, roasting and brewing seriously and we’re glad to pass that
@@ -22,7 +22,7 @@ areas:
           - 12 sesiones
           - 2 sesiones/mes
           - 2 horas/sesión
-        plan: La vida tras la péridda
+        plan: La vida tras la pérdida
         price: 600 Euros
       - description: Great for avid drinkers, java-loving couples and bigger crowds
         items:
