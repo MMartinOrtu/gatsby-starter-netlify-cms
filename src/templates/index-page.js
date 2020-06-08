@@ -27,7 +27,7 @@ export const IndexPageTemplate = ({
         borderRadius: '15px',
         filter: 'grayscale(0.3)',
         height: '460px',
-        transform: 'translateX(-10%)',
+        transform: 'translateX(-8%)',
       }}
     >
 {      <div
@@ -60,30 +60,34 @@ export const IndexPageTemplate = ({
             <div className="column is-12">
               <div className="content">
                 <div className="columns">
-                  <div className="column is-12">
+                  <div
+                    style={{ marginBottom: '32px'}}
+                    className="column is-12"
+                  >
                     <h3
-                    className="has-text-weight-semibold is-size-2">
+                    style={{ textAlign: 'center', color: '#82B7B9'}}
+                    className="has-text-weight-semibold is-size-1">
                       {heading}
                     </h3>
-                    <p>{description}</p>
+                    <p style={{ fontSize: '18px', lineHeight: '24px'}}>{description}</p>
                   </div>
                 </div>
                 <Features gridItems={intro.blurbs} />
                 <div className="columns">
                   <div className="column is-12 has-text-centered">
                     <Link className="btn" to="/products">
-                      See all products
+                      Ver más
                     </Link>
                   </div>
                 </div>
                 <div className="column is-12">
                   <h3 className="has-text-weight-semibold is-size-2">
-                    Latest stories
+                    Últimos posts
                   </h3>
                   <BlogRoll />
                   <div className="column is-12 has-text-centered">
                     <Link className="btn" to="/blog">
-                      Read more
+                      Leer más
                     </Link>
                   </div>
                 </div>
