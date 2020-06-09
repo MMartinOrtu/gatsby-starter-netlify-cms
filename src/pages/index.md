@@ -16,11 +16,13 @@ intro:
   blurbs:
     - image: /img/1.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        La circuloterapia es una metodología de intervención psicológica grupal.
+        Consiste en el trabajo terapéutico de aspectos y dificultades
+        relacionadas con la ma-paternidad, a
+
+        través de sesiones en grupo. Los/las participantes del círculo funcionan como catalizadores del cambio. La identificación y pertenencia con el grupo funcionan como soporte emocional. El trabajo del círculo implica una terapia activa, llevada a cabo por profesionales de la psicología cualificados/as. Además de la metodología
+
+        grupal, dentro del círculo se utilizan herramientas de intervención psicológicas propias de las terapias contextuales.
     - image: /img/2.png
       text: Creemos en la formación continua y la psicoeducación  como complemento
         esencial y necesario para desempeñar profesiones relacionadas con la
