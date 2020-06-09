@@ -1,12 +1,12 @@
 ---
-templateKey: index-page
-title: Psicología perinatal para todas las maternidades
-image: /img/img_9262.jpg
-heading: Great coffee with a conscience
+heading: HABLAMOS LA LENGUA DE L@S MA-PADRES.
 subheading: Support sustainable farming while enjoying a cup
+templateKey: index-page
 mainpitch:
   title: Psicología perinatal para todas las maternidades
   description: "\n"
+title: Psicología perinatal , crianza y familia.
+image: /img/isaac-del-toro-b1nsvyklp6g-unsplash.jpg
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
   production, roasting and brewing seriously and we’re glad to pass that
