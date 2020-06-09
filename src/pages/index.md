@@ -5,7 +5,7 @@ templateKey: index-page
 mainpitch:
   title: Psicología perinatal para todas las maternidades
   description: "\n"
-title: Psicología perinatal, crianza y familia.
+title: Psicología perinatal crianza y familia.
 image: /img/isaac-del-toro-b1nsvyklp6g-unsplash.jpg
 description: "Bienvenid@ a este espacio donde vas a encontrar informacion acerca
   de las diferentes formas de ma-paternar y recursos que hemos creado
