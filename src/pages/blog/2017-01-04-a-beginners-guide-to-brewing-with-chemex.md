@@ -16,10 +16,9 @@ tags:
   - duelo
   - madre
 ---
+![Picture: Jenna Norman](/img/jenna-norman-8ybzt29caoa-unsplash.jpg)
 
-
-Hace tres años, una amiga vino a casa con su marido y sus dos hijas. Mientras él estaba en el salón con las suyas y mi hijo, hablábamos las dos en la cocina, sobre mi estado emocional. En
-resumidas cuentas me dijo con sus dos manos, una más alta que la otra, y los puños cerrados,
+Hace tres años, una amiga vino a casa con su marido y sus dos hijas. Mientras él estaba en el salón con las suyas y mi hijo, hablábamos las dos en la cocina, sobre mi estado emocional. En resumidas cuentas me dijo con sus dos manos, una más alta que la otra, y los puños cerrados,
 que mi ex estaba arriba y yo abajo. Y que eso era debido a que yo no había asimilado que él ya
 tenía otra pareja.
 Esta chica, había ignorado de un plumazo toda la falta de autocuidado que tenía encima desde
@@ -56,8 +55,7 @@ reconocerme en el espejo, ni como era, ni como soy ahora.
 Y perdí mi tiempo para que mis pensamientos y mis ideas crezcan con buenas lecturas, buenas
 películas, buenas series, y espectáculos.
 
-La falta de no cuidarme, me entristece, me pone seria, de desconecta de mi. Y la dificultad de encontrar esos espacios de autocuidado provocan tanta ansiedad y estrés que cuando
-encuentras ese hueco, hay tantas cosas que podría hacer por mi, y tan olvidada la conciencia
+La falta de no cuidarme, me entristece, me pone seria, de desconecta de mi. Y la dificultad de encontrar esos espacios de autocuidado provocan tanta ansiedad y estrés que cuando encuentras ese hueco, hay tantas cosas que podría hacer por mi, y tan olvidada la conciencia
 de cómo se hacía, que el tiempo pasa y es difícil aprovecharlo justo en lo que en ese momento
 tu cuerpo necesita. La falta de autocuidado me ha vuelto sorda a mi.
 Y perdí, mi sueño de ser clown. Bueno, ese no lo he perdido. Solo lo he pospuesto a que mi
