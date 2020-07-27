@@ -1,5 +1,5 @@
 ---
-heading: HABLAMOS LA LENGUA DE L@S MA-PADRES.
+heading: HABLAMOS LA LENGUA DE LAS MADRES.
 subheading: Support sustainable farming while enjoying a cup
 templateKey: index-page
 mainpitch:
