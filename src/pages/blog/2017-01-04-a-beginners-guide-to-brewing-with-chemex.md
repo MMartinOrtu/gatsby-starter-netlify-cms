@@ -1,29 +1,68 @@
 ---
 templateKey: blog-post
-title: A beginners’ guide to brewing with Chemex
-date: 2017-01-04T15:04:10.000Z
+title: '"LA FALTA DE AUTOCUIDADO"'
+date: 2020-06-27T21:49:00.000Z
+description: By Isabel González Bertos
 featuredpost: false
-featuredimage: /img/chemex.jpg
-description: Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.
+featuredimage: /img/jenna-norman-8ybzt29caoa-unsplash.jpg
 tags:
-  - brewing
-  - chemex
+  - maternidad
+  - real
+  - cuidado
+  - conciliación
+  - apoyo
+  - tribu
+  - psicologia
+  - duelo
+  - madre
 ---
-![chemex](/img/chemex.jpg)
 
-This week we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts.
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is _"one of the best-designed products of modern times"_, and so is included in the collection of the Museum of Modern Art in New York City.
+Hace tres años, una amiga vino a casa con su marido y sus dos hijas. Mientras él estaba en el salón con las suyas y mi hijo, hablábamos las dos en la cocina, sobre mi estado emocional. En
+resumidas cuentas me dijo con sus dos manos, una más alta que la otra, y los puños cerrados,
+que mi ex estaba arriba y yo abajo. Y que eso era debido a que yo no había asimilado que él ya
+tenía otra pareja.
+Esta chica, había ignorado de un plumazo toda la falta de autocuidado que tenía encima desde
+que nació mi pequeño.
+Antes de tener a mi hijo, yo había descubierto a través de varios talleres de clown, que eso era
+lo mío. Que todo el mundo expresivo que yo había hecho siempre por buscar, como la
+expresión corporal, el dibujo, la guitarra... tenían su encaje ahí, en el clown.
+Pero fui madre. Así lo quise yo. Y a los seis meses descubrí que el padre de mi hijo tenía otras
+prioridades. Me separé.
+Y perdí, el sueño profundo y de calidad, y 5 años después sigo sin recuperarlo, pues las
+madrugadas son los espacios tranquilos de trabajo que una docente sola tiene para preparar
+sus clases y corregir. La atención siempre dispersa, y en todas direcciones. No ser capaz de
+concentrarse en una sola tarea, saltar inconscientemente de una cosa a otra, dejando todo a
+medias. Todo se olvida rápido, y es difícil recordar.
+Y perdí, la conciencia corporal. Las preocupaciones constantes para llegar a todo hacen que te
+olvides hasta de respirar. Sales de casa sin siquiera haber visto tu imagen en el espejo, sin
+saber ni la ropa que llevas puesta. A veces el bazo te da un pinchazo recordándote que pares la
+cabeza y te acuerdes de descansar. Los codos, los hombros, la espalda y el cuello están
+siempre muy tensos. Hacer deporte, ir al fisio, o respirar aliviaría, alivia. Pero hay tanto que
+hacer, que en la lista suele estar en último lugar.
+Y perdí pararme a escuchar la herida de la cesárea, vivir pérdidas de orina por no pararse a
+hacer los famosos ejercicios de Kegel. También en último lugar acordarse del suelo pélvico. Me
+preguntan, ¿Has curado la violencia obstétrica que sufriste en el parto? Y no sabes cómo
+explicar que ese dolor, estando en la lista, ya se curará , cuando se pueda.
+Y perdí el disfrutar de la creatividad. Cuando no me regalo tiempo para actividades donde te
+imbuyes, como buscar el acorde de una canción, dibujar, escribir, que te renuevan , pierdes
+esos momentos en los que “se te quitaba to”. Son los que te dan mas que descanso e
+imposible conseguirlos con las constantes interrupciones de un niño pequeño.
+Y perdí la noción del tiempo. Cuando no me permito pararme, hacer durante todo el día sin
+relevo mínimo cuatro tareas simultaneas, y calcular lo que se tarda en hacer algo es para mí
+ahora mismo imposible.
+Y perdí la noción de las dimensiones de mi cuerpo, no se si estoy gorda o delgada. No consigo
+reconocerme en el espejo, ni como era, ni como soy ahora.
+Y perdí mi tiempo para que mis pensamientos y mis ideas crezcan con buenas lecturas, buenas
+películas, buenas series, y espectáculos.
 
-## The little secrets of Chemex brewing
+La falta de no cuidarme, me entristece, me pone seria, de desconecta de mi. Y la dificultad de encontrar esos espacios de autocuidado provocan tanta ansiedad y estrés que cuando
+encuentras ese hueco, hay tantas cosas que podría hacer por mi, y tan olvidada la conciencia
+de cómo se hacía, que el tiempo pasa y es difícil aprovecharlo justo en lo que en ese momento
+tu cuerpo necesita. La falta de autocuidado me ha vuelto sorda a mi.
+Y perdí, mi sueño de ser clown. Bueno, ese no lo he perdido. Solo lo he pospuesto a que mi
+cuerpo esté de nuevo dispuesto a ello. Cuando pueda autocuidarme.
+Lo que intento no perder al menos, es la conexión con la gente, con amigos y amigas,
+familiares, otras madres solas, con esa tribu, que apoya y sostiene.
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
-
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
-
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
-
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+Isabel González- mujer madre invitada. Muchas gracias por tu generosidad.
