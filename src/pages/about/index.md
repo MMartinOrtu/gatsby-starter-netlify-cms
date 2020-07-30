@@ -29,6 +29,6 @@ Desde que os pensáis madres. Desde que os pensáis padres.
 
 Aquí podéis consultar nuestra trayectoria profesional y curriculum:
 
-FAMARA PEDROSA CABA (Nº Col. AO 11426): [https://www.linkedin.com/in/famara-pedrosa-972449b](https://www.linkedin.com/in/famara-pedrosa-972449b7/)
+FAMARA PEDROSA CABA (Nº Col. AO 11246): [https://www.linkedin.com/in/famara-pedrosa-972449b](https://www.linkedin.com/in/famara-pedrosa-972449b7/)
 
 EIRENE GARCÍA CARO (Nº Col. AO 09582): <https://www.linkedin.com/in/eirene-garc%C3%ADa-caro-b3636b92/>
