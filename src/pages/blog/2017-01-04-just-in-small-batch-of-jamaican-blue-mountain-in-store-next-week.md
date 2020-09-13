@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: '"EL GRAN BIG BANG"'
-date: 2020-09-12T22:00:00.000Z
+date: 2020-09-13T21:53:29.787Z
 description: TESTIMONIO
 featuredpost: true
 featuredimage: /img/20200804_170757_0000.png
