@@ -42,8 +42,8 @@ intro:
 
         En ellos se trabaja con sesiones programadas donde se realiza trabajo personal y entre sesión y sesión se recibe apoyo tanto por parte de las psicólogas que atienden al grupo como por parte de los demás participantes en la comunidad online a la que se tiene acceso.
     - image: /img/5.png
-      text: Los Talleres Maternés y los Talleres MA-PATERFULNESS, son sesiones de hora
-        y media deduración, con un tema específico donde abordamos
+      text: Los Talleres Maternés y los Talleres MATERFULNESS, son sesiones de hora y
+        media de duración, con un tema específico donde abordamos
         psicológicamente temas relacionados con la ma-paternidad en todas sus
         formas (culpas, manejo de ansiedad y emociones, vínculo, crianza
         respetuosa.... Se trata de intervenciones en grupos reducidos donde
