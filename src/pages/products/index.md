@@ -45,7 +45,7 @@ areas:
         items:
           - 3 sesiones
           - 1 sesión/semana
-          - 2 horas/sesión.
+          - 2 horas/sesión. Disponible próximamente.
       - plan: Dinamizador/a de grupos de ayuda mutua de duelo perinatal.
         price: 64,99 euros
         description: Aspectos psicológicos del duelo perinatal y herramientas para
