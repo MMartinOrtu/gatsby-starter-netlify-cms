@@ -52,4 +52,17 @@ areas:
           facilitar grupos de ayuda mutua de duelo perinatal y neonatal.
         items:
           - Proximamente disponible
+  - area: Programas terapeúticos
+    description: Terapia grupal para la elaboración de duelos.
+    plans:
+      - plan: Programa terapéutico grupal intensivo SANA TU DUELO (PERINATAL)
+        price: "Oferta de lanzamiento: 277 euros"
+        description: "Su precio habitual es de 457 euros. "
+        items:
+          - Proximamente disponible.
+      - plan: Programa terapéutico grupal intensivo SANA TU PARTO
+        price: "Oferta de lanzamiento: 277 euros"
+        description: "Su precio habitual es de 457 euros. "
+        items:
+          - Proximamente disponible.
 ---
