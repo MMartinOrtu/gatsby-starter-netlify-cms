@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: '"INÉS DEL ALMA MÍA"'
-date: 2019-02-15T08:00:00.000Z
+date: 2020-10-01T09:40:32.556Z
 description: BY Eirene García Caro, madre de Inés y psicóloga.
 featuredpost: false
 featuredimage: /img/20190619_103429.jpg
@@ -14,7 +14,7 @@ tags:
 ---
 ![Caja del recuerdo](/img/20190619_103429.jpg "INÉS DEL ALMA MIA")
 
-En España, 6 bebés nacen muertos o mueren en el parto cada día. Sí, muerto. Sé que la palabra muerte nos suena ajena, tétrica, triste, pero no voy a utilizar otra, porque la realidad de la que os voy a hablar la contiene y sirve para describirla.
+En España, 3 bebés nacen muertos o mueren en el parto cada día. Sí, muerto. Sé que la palabra muerte nos suena ajena, tétrica, triste, pero no voy a utilizar otra, porque la realidad de la que os voy a hablar la contiene y sirve para describirla.
 
 El día 15 de octubre de 2018, Día de la muerte perinatal y gestacional a las 9:56 de la mañana publiqué un post en mi página de Facebook sobre psicología haciendo una llamada al reconocimiento del duelo de las mujeres y familias que habían perdido un bebé durante la gestación o después de la misma y me leí la Guía sobre qué hacer en caso de muerte perinatal que la Asociación Umamanita había publicado esa misma mañana. Yo estaba embarazada de mi hija Inés, de 38+5sdg (semanas de gestación) y nunca imaginé que ese mismo día a las 18:00 horas yo me iba a convertir en una de esas mujeres y mi familia en una de esas familias.
 
